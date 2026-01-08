@@ -1,7 +1,7 @@
 plugins {
     id("com.android.application")
     id("kotlin-android")
-    // Flutter Gradle plugin (must be last)
+    // Flutter Gradle plugin (must be last
     id("dev.flutter.flutter-gradle-plugin")
 }
 
